@@ -1,8 +1,8 @@
 # WeatherApp
 A Weather Application named Clima that shows the current weather depending on your location or search
 
-⋅⋅* Weather symbols change according to certain temperatures and the response from API
-⋅⋅* Light and Dark Mode
+* Weather symbols change according to certain temperatures and the response from API
+*  Light and Dark Mode
 
 
 ## Depending on your location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depending on your search
